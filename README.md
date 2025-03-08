@@ -16,7 +16,6 @@ The system uses a **ResNet-18** model to predict bacterial types and resistance,
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 
 ## Picture of the Program Working
@@ -235,7 +234,3 @@ In `requirements.txt`:
 - `npm` and `Node.js` for JavaScript dependencies.
 - **package.json** lists dependencies for frontend components.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
